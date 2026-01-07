@@ -43,6 +43,7 @@ Result: Outputs a time-series of total portfolio value and logs every rebalancin
 Rebalance Log: Shows exactly which stocks were bought/sold and their new weights.
 
 Shadow Price Analysis: Identifies which constraints (e.g., "Max 25%") are actively limiting performance. (no surprise in the calculations since the model is purely profit driven, used to see if model is actually profit driven and because I wanted to)
+
 Equity Curve: A visualization of how $100,000 would have grown using this strategy.
 
 ⚠️ Disclaimer
